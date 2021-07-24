@@ -15,7 +15,7 @@ public class AddTestFile {
     }
 
     public void test01(){
-        
+        String param = "ac";
     }
 
     public void test02(){
