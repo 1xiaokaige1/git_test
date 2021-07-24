@@ -9,4 +9,8 @@ public class AddTestFile {
         System.out.println("git push origin");
         System.out.println("sss");
     }
+
+    public Integer quickFind() {
+        return Integer.MAX_VALUE;
+    }
 }
