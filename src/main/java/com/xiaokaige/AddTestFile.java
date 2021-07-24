@@ -13,4 +13,8 @@ public class AddTestFile {
     public Integer quickFind() {
         return Integer.MAX_VALUE;
     }
+
+    public void test01(){
+        
+    }
 }
