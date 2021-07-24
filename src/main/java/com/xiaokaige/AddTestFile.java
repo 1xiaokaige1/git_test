@@ -17,4 +17,8 @@ public class AddTestFile {
     public void test01(){
         
     }
+
+    public void test02(){
+
+    }
 }
