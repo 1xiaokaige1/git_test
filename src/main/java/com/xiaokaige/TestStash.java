@@ -6,6 +6,6 @@ package com.xiaokaige;
  */
 public class TestStash {
     public static void main(String[] args) {
-        System.out.println("abc");
+
     }
 }
